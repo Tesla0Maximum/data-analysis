@@ -13,6 +13,8 @@ Lab_MAIN.R: R script for data preprocessing and analysis.
 
 Car_Market_Analysis.pdf: The research documenting the study.
 
+plots.zip: Containing all the plots exported from the study.
+
 **Research Objective**
 
 The study aims to analyze the impact of factors such as age, mileage, fuel type, transmission type, and engine specifications on the selling prices of used cars.
