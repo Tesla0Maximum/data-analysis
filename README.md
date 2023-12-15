@@ -3,7 +3,7 @@ UTM'23-Data-Analysis
 
 **Overview**
 
-This repository contains the term paper and related data analysis for a study on the used car market. The project explores various factors influencing the selling prices of used cars, utilizing statistical methods and data visualization techniques.
+This repository contains the research and related data analysis for a study on the used car market. The project explores various factors influencing the selling prices of used cars, utilizing statistical methods and data visualization techniques.
 
 **Contents**
 
@@ -11,7 +11,7 @@ car_details_v3.csv: Dataset containing details of used cars.
 
 Lab_MAIN.R: R script for data preprocessing and analysis.
 
-Car_Market_Analysis.pdf: The term paper documenting the study.
+Car_Market_Analysis.pdf: The research documenting the study.
 
 **Research Objective**
 
@@ -35,4 +35,4 @@ Shift in trends regarding the significance of fuel type in determining selling p
 Download the car_details_v3.csv([ from Kaggle ](https://www.kaggle.com/code/tabriznagiyev/car-details-v3/input)) and Lab_MAIN.R.
 
 Run the R script to perform the analysis and view the results.
-Read the term paper for detailed insights and discussion on the findings.
+Read the paper for detailed insights and discussion on the findings.
