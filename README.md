@@ -7,13 +7,13 @@ This repository contains the research and related data analysis for a study on t
 
 **Contents**
 
-car_details_v3.csv: Dataset containing details of used cars.
+Dataset: Folder containing ”car_details_v3.csv” dataset details of used cars.
 
 Lab_MAIN.R: R script for data preprocessing and analysis.
 
-Car_Market_Analysis.pdf: The research documenting the study.
+Research: The folder containing paper research documenting the study.
 
-plots.zip: Containing all the plots exported from the study.
+Plots: Folder containing all the plots exported from the study.
 
 **Research Objective**
 
